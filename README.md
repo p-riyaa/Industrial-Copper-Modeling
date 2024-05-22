@@ -9,12 +9,12 @@ The copper industry deals with less complex data related to sales and pricing. H
 ## Classification model details
 Another area where the copper industry faces challenges is in capturing the leads. A lead classification model is a system for evaluating and classifying leads based on how likely they are to become a customer. You can use the STATUS variable with WON being considered as Success and LOST being considered as Failure and remove data points other than WON, LOST STATUS values.
 
-# Tools Installed  
+## Tools Installed  
 PyCharm Community Edition 2023.3.3 , Jupyter/Google Colab
-# Required Libraries 
+## Required Libraries 
 Streamlit, numpy, pandas, scikit-learn, Image, re
 
-# User Guide 
+## User Guide 
 
 **Step 1** - Home Tab provides a brief overview of the project. 
 **Step 2** - Predict selling price Tab allows predict selling price based on the given input values.
